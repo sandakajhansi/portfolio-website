@@ -1,2 +1,1 @@
-# portfolio-website
-HTML5 Semantic Structure and Accessibility Portfolio Project
+Advanced CSS3 Responsive Portfolio
